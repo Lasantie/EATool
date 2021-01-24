@@ -1,0 +1,446 @@
+[
+   {
+       "id": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "name": "Управление продажами (клиент-покупатель)",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "A0DCFAB6-1398-23AC-2DD7-67CC43DE4752",
+       "name": "Управление инвестициями",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "name": "Управление финансами",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "7A2EB8AF-08C6-6476-5BCB-36FF63A6A503",
+       "name": "Управление правовыми вопросами",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "EC69521B-650A-8E1C-8164-D0BD2E9B5F92",
+       "name": "Управление персоналом",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "A26E2CB8-A0A4-A1BD-3A86-543C0BE5373F",
+       "name": "Стратегическое управление",
+       "parentId": "A0DCFAB6-1398-23AC-2DD7-67CC43DE4752",
+       "description": ""
+   },
+   {
+       "id": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "name": "Управление закупками",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "8988727A-6F11-1E2F-6BE6-DC84F5433AFF",
+       "name": "Управление безопасностью",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "name": "Управление трансформацией",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "name": "Управление сервисом (клиент-житель)",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "name": "Управление производством",
+       "parentId": "",
+       "description": ""
+   },
+   {
+       "id": "560B9102-0513-40A7-71E8-F7DF243A75BA",
+       "name": "Поиск свободных участков под застройку",
+       "parentId": "A0DCFAB6-1398-23AC-2DD7-67CC43DE4752",
+       "description": ""
+   },
+   {
+       "id": "5CCEFCDA-28F9-2D25-5358-CBFC318AA010",
+       "name": "Оценка участков",
+       "parentId": "A0DCFAB6-1398-23AC-2DD7-67CC43DE4752",
+       "description": ""
+   },
+   {
+       "id": "D6A43A2E-3E53-9DCD-8B30-27E04942016D",
+       "name": "Инвестиционный комитет",
+       "parentId": "A0DCFAB6-1398-23AC-2DD7-67CC43DE4752",
+       "description": ""
+   },
+   {
+       "id": "17B735EF-3DA0-308C-349B-946A13806CD7",
+       "name": "Управленческая себестоимость проектов",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "55645808-22BF-12A2-89D3-F144DC3B8908",
+       "name": "Управление проектами (контроль сроков, денежных потоков)",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "31189F24-9BB4-547E-7486-6BA5B2A682B0",
+       "name": "Градостроительная подготовка проектов",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "B25F7EBB-1810-429E-4D8F-A8FAC30C6059",
+       "name": "Проектирование",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "B5241918-46B8-931A-554B-03F65DDE742A",
+       "name": "Управление взамодействия с партнерами",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "8A313D9D-4AF1-26A8-96BD-0D6629B9029A",
+       "name": "Выполнение СМР и контроль сроков",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "306BB259-80CA-8111-5015-7A6033696674",
+       "name": "Контроль качества СМР",
+       "parentId": "A9FB146F-1303-5865-6BB4-C0D521E161B0",
+       "description": ""
+   },
+   {
+       "id": "8C46D256-2E6E-A6AD-72C4-2DD29C02561E",
+       "name": "Бухгалтерский и регламентированный учет",
+       "parentId": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "description": ""
+   },
+   {
+       "id": "37F76324-06DB-127D-A17F-313739E98271",
+       "name": "МСФО",
+       "parentId": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "description": ""
+   },
+   {
+       "id": "85D6294F-11F7-6E1F-45CB-FA77D4C15292",
+       "name": "Управление денежными потоками (казначейство)",
+       "parentId": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "description": ""
+   },
+   {
+       "id": "06AD836B-05F2-983A-8028-C85B4FED164F",
+       "name": "Бюджетирование",
+       "parentId": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "description": ""
+   },
+   {
+       "id": "BD5FAF20-4620-A17F-2C04-C662F1AA4DA2",
+       "name": "Управленческий учет",
+       "parentId": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "description": ""
+   },
+   {
+       "id": "0416D1DF-86C3-705A-512A-A624E46901DA",
+       "name": "Финансовый аудит",
+       "parentId": "DC90052F-078B-A7B5-930C-FAF09280634F",
+       "description": ""
+   },
+   {
+       "id": "25061080-2F85-77A4-55AD-87790D763FF1",
+       "name": "Аккредитация",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "BBC783EF-703C-3C71-7C1D-2B93BF888320",
+       "name": "Репутация и оценка деятельности",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "EEF69971-3628-71BD-1F0A-392878B44E48",
+       "name": "Закупка и тендеры",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "4454A2B9-475B-5E3F-1653-15B11C3C20C9",
+       "name": "Заключение договора",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "E430E701-3AE2-36F8-84D0-C6B15313506E",
+       "name": "Отчеты по эффективности закупок",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "C52FC9EA-491C-9060-5C7E-DFEDA4D88E91",
+       "name": "Аналитика по контрагентам",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "822A32B9-6970-A22B-6239-8D4D56AA8662",
+       "name": "Помещение подрядчика в черный список",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "35DC01A0-48FE-8749-31ED-708324B32F44",
+       "name": "Распределительные письма",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "2C56B507-6C0B-2910-4B8D-CBA5D9174DC3",
+       "name": "Подача выполнений по договору",
+       "parentId": "F292C942-7096-9D14-7EAD-E4255F827088",
+       "description": ""
+   },
+   {
+       "id": "7A7709BA-62DD-5D78-4717-2C4967562634",
+       "name": "Маркетинговые мероприятия",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+       "id": "3952F89F-A475-249E-3E26-8BA8BA237C56",
+       "name": "Подготовка объектов к продаже",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+        "id": "3952F89F-A475-249E-3E26-8BA8BA237C55",
+        "name": "Подготовка объектов к продаже 1123",
+        "parentId": "3952F89F-A475-249E-3E26-8BA8BA237C56",
+        "description": ""
+    },
+   {
+       "id": "58182D7F-4383-A40E-8EB2-4EFB315391E9",
+       "name": "Коммуникация с клиентом",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+       "id": "425D915E-9803-9D1E-5F79-5475A0799A01",
+       "name": "Проведение встречи",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+       "id": "B1D2A056-9090-269F-53F0-A5A90DFC3C20",
+       "name": "Подписание договора",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+       "id": "60BD6BA7-1AF3-5277-8154-3B4E44164D72",
+       "name": "Постпродажное обслуживание",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+       "id": "9405C49D-5A54-95F1-9180-EE5C464578E1",
+       "name": "Заселение",
+       "parentId": "9FF610BE-775B-88DA-3B1E-24634A0F078A",
+       "description": ""
+   },
+   {
+       "id": "BE34C922-5D8C-0F0F-445B-541968A699DF",
+       "name": "Регистрация и обработка обращений клиента",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "F2C2CDA7-0B25-84CA-88C3-8113AC0212C9",
+       "name": "Оформление документов",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "91D1F125-4AC9-70C6-492C-482A7B92258A",
+       "name": "Планирование и проведение ремонтных работ",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "B6B05350-534B-5CE2-18FF-952E0E310882",
+       "name": "Биллинг",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "45D2F045-3763-1DE8-2052-2EDEA4DD664B",
+       "name": "Прием показаний приборов учета",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "6D546744-278D-3D9F-41F7-BD3E424D64A5",
+       "name": "Регистрация первичных документов",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "CFAF4737-69F9-1B88-8544-A0036EDE464A",
+       "name": "Управленческая отчетность",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "9C502EBC-6381-40B0-5C2C-F74E2CB91D2D",
+       "name": "Подготовка и сдача бухгалтерской отчетности",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "C15645C1-5B32-824A-0FAF-EBEFAFD40B0D",
+       "name": "Умный дом",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "B3400492-66CC-2181-3046-442541669C27",
+       "name": "Регистрация объектов эксплуатации",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "F5A760B5-0FE8-6DDE-752F-7728B70E0466",
+       "name": "Самолет.Доверие",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "4A602F74-9752-5E4F-77DE-D9C9132B6412",
+       "name": "Передача данных в ГИС ЖКХ",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "502B2FFA-3B28-0E89-3FC7-90632F3773A6",
+       "name": "Сбор первичных показаний приборов учета",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "7D495D62-956D-3359-1575-B2FD42CE092A",
+       "name": "Управление и эксплуатация",
+       "parentId": "0082B295-1CC8-96AE-2BA8-142B0B5D840A",
+       "description": ""
+   },
+   {
+       "id": "6AE530DD-7A75-21E6-251D-4682DCA89651",
+       "name": "Управление эксплуатацией",
+       "parentId": "8.14 Управление и эксплуатация",
+       "description": ""
+   },
+   {
+       "id": "7423FDFB-0CC9-2BCC-9303-F1A014B1A693",
+       "name": "Прием и обработка обращений",
+       "parentId": "8.14 Управление и эксплуатация",
+       "description": ""
+   },
+   {
+       "id": "7F407324-37A7-6437-28CD-FC9FAFD09EAA",
+       "name": "Продажа платных услуг",
+       "parentId": "8.14 Управление и эксплуатация",
+       "description": ""
+   },
+   {
+       "id": "D3C3C19B-76E9-23C2-03EA-175C410C2508",
+       "name": "Управление ИТ-архитектурой",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "AB7D6094-4A1A-42E7-6A63-75C52A738F6D",
+       "name": "Управление изменениями",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "28CF6EE1-51F7-2E55-3318-A88EC71E05C0",
+       "name": "Управление проектами",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "A59B831D-8232-7A54-56C9-FCA347424C6C",
+       "name": "Управление ИТ-инфраструктурой",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "E3BFC0A0-569C-88C4-28DE-CC0CC8DD86DF",
+       "name": "Управление поддержкой пользователей",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "55A0A242-016A-066F-68FA-4D4A803D4E98",
+       "name": "Управление трансформацией",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "EFC07C98-8987-9611-33C7-650FA10722A9",
+       "name": "Управление документацией",
+       "parentId": "A88F6BE4-9D7D-2048-996A-63BB286A53AE",
+       "description": ""
+   },
+   {
+       "id": "DB97144D-66A2-0860-5394-970D87CC6719",
+       "name": "Договоры",
+       "parentId": "7A2EB8AF-08C6-6476-5BCB-36FF63A6A503",
+       "description": ""
+   },
+   {
+       "id": "2210A0CF-93A3-09F6-52ED-137ABD683FBA",
+       "name": "Доверенности",
+       "parentId": "7A2EB8AF-08C6-6476-5BCB-36FF63A6A503",
+       "description": ""
+   },
+   {
+       "id": "018139EB-1698-994A-7766-2D4324860A8F",
+       "name": "Суды",
+       "parentId": "7A2EB8AF-08C6-6476-5BCB-36FF63A6A503",
+       "description": ""
+   },
+   {
+       "id": "87FB42B7-3DB9-2656-5968-DFA0434B6F26",
+       "name": "Информационная безопасность",
+       "parentId": "8988727A-6F11-1E2F-6BE6-DC84F5433AFF",
+       "description": ""
+   },
+   {
+       "id": "429D5AA8-74F7-7593-495E-1CB886BF6B18",
+       "name": "Защита ресурсов",
+       "parentId": "8988727A-6F11-1E2F-6BE6-DC84F5433AFF",
+       "description": ""
+   },
+   {
+       "id": "B7DC792A-7E96-6DD8-9754-5092EE566EED",
+       "name": "Аудит",
+       "parentId": "8988727A-6F11-1E2F-6BE6-DC84F5433AFF",
+       "description": ""
+   }
+]

@@ -1,0 +1,534 @@
+{"applications":
+  [
+        {
+           "id": "8B3D2A9E-6C68-A402-719D-E2A786D585A9",
+           "name": "Интерактивная карта",
+           "description": ""
+        },
+        {
+           "id": "5C99501D-7D77-0443-4068-2B2457DC015C",
+           "name": "Самолет Инвестор",
+           "description": ""
+        },
+        {
+           "id": "D5953D3D-6434-8F62-45F9-200ACB531FF9",
+           "name": "CRM (инвесторы)",
+           "description": ""
+        },
+        {
+           "id": "5338A7DD-5389-267E-21DE-F1376A971654",
+           "name": "Microsoft Dynamics CRM",
+           "description": ""
+        },
+        {
+           "id": "DCB08EED-3A89-9C5A-A079-46FCA16D582D",
+           "name": "Система динамического ценообразования",
+           "description": ""
+        },
+        {
+           "id": "8C5B496A-A1FB-3045-26EA-7B8F4D2F9F86",
+           "name": "OWOX - сквозная аналитика",
+           "description": ""
+        },
+        {
+           "id": "A953D575-1BAC-7B3B-055C-8A7AF01E247C",
+           "name": "Adventum",
+           "description": ""
+        },
+        {
+           "id": "AA863BC9-68D1-133C-9190-DB1871701D79",
+           "name": "Exponea",
+           "description": ""
+        },
+        {
+           "id": "7355FE3A-3108-858C-8E7C-1FFA5E66909C",
+           "name": "ЛК Клиента",
+           "description": ""
+        },
+        {
+           "id": "00B61593-5F71-6453-18AD-9B6F3A5B1DF4",
+           "name": "ЛК Жителя",
+           "description": ""
+        },
+        {
+           "id": "03AA684A-3019-2586-0A2F-CE8F7FBC9F44",
+           "name": "1С:ЖКХ",
+           "description": ""
+        },
+        {
+           "id": "9F2FA30E-8D74-80CE-0735-DFA8F1199D22",
+           "name": "1С:ТОиР",
+           "description": ""
+        },
+        {
+           "id": "82D7302D-052A-3809-71D5-CA0814A58912",
+           "name": "Мобильное приложение показчика",
+           "description": ""
+        },
+        {
+           "id": "08EA8275-8744-208C-125D-D02CD3DE2690",
+           "name": "SAP SuccessFactors",
+           "description": ""
+        },
+        {
+           "id": "0F77DA87-4D06-134D-8E4D-EBEC20904469",
+           "name": "1С:Зарплата и управление персоналом",
+           "description": ""
+        },
+        {
+           "id": "E8A05EC0-0FC8-423A-9497-2EDECCD34F0F",
+           "name": "Корпоративный и учебный портал",
+           "description": ""
+        },
+        {
+           "id": "BCAC7530-7638-7047-7755-3EDF09BE9FD7",
+           "name": "Мобильное приложение сотрудника",
+           "description": ""
+        },
+        {
+           "id": "11FE756F-7489-A55B-632D-3850F5500804",
+           "name": "JIRA",
+           "description": ""
+        },
+        {
+           "id": "C9720CC6-8958-09FF-008A-8D63C47B6539",
+           "name": "Таймекс",
+           "description": ""
+        },
+        {
+           "id": "B2670B0E-0AD0-1C33-1F8F-7DD9D20288B4",
+           "name": "Outlook",
+           "description": ""
+        },
+        {
+           "id": "86057C85-5D6E-2D5E-196B-D60E8F685A63",
+           "name": "Skype 4 Business",
+           "description": ""
+        },
+        {
+           "id": "807806F0-6EA1-22D6-2497-3E5FF65C4343",
+           "name": "Telegram, WhatsApp",
+           "description": ""
+        },
+        {
+           "id": "FEB435C3-9B87-9DD2-3105-1766C21C23D2",
+           "name": "Zoom",
+           "description": ""
+        },
+        {
+           "id": "9AE7F85C-7DC6-3046-5CDD-D7274759376F",
+           "name": "Confluence",
+           "description": ""
+        },
+        {
+           "id": "2255BB05-15F7-5699-47F3-D3967E40507F",
+           "name": "Cloud",
+           "description": ""
+        },
+        {
+           "id": "C3C35565-174F-593D-80E9-748C138088D2",
+           "name": "Shared Disk",
+           "description": ""
+        },
+        {
+           "id": "2ED03BA3-7251-55F4-6B08-332CE85E9F3E",
+           "name": "1С:БИТ Финанс",
+           "description": ""
+        },
+        {
+           "id": "0800362B-554D-26CB-42B7-7596B9791050",
+           "name": "MDM",
+           "description": ""
+        },
+        {
+           "id": "F99BAC45-7051-2C0F-3E63-89C97A019F8B",
+           "name": "1С:Документооборот",
+           "description": ""
+        },
+        {
+           "id": "D3F9A820-80BE-4D5E-A117-AFFDF31E23A2",
+           "name": "1С:Бухгалтерия",
+           "description": ""
+        },
+        {
+           "id": "6DB64B06-023E-A480-0E72-2FEFD09499E8",
+           "name": "Контур.Диадок",
+           "description": ""
+        },
+        {
+           "id": "FB0D55D7-9169-85BC-5038-318F5C806434",
+           "name": "СБИС",
+           "description": ""
+        },
+        {
+           "id": "A481C08F-200C-9B13-6703-1C61B1AD1246",
+           "name": "TAXCOM",
+           "description": ""
+        },
+        {
+           "id": "DE2AE6B9-1A14-63A4-4CDB-D5A7BBF83547",
+           "name": "Производственная система",
+           "description": ""
+        },
+        {
+           "id": "73FEBACA-19B3-1544-5F75-B06EE7EE0219",
+           "name": "Revit&NavisWorks 2020",
+           "description": ""
+        },
+        {
+           "id": "5D814B40-7C41-311B-9085-B99F46E49903",
+           "name": "S.Docs - Autodesk BIM 360 DOCS",
+           "description": ""
+        },
+        {
+           "id": "281777E6-A437-6B67-7978-B12D7C4422A9",
+           "name": "Google Sheets",
+           "description": ""
+        },
+        {
+           "id": "0BF4F346-0489-4F6C-951F-C4F0336734CC",
+           "name": "S.Partner",
+           "description": ""
+        },
+        {
+           "id": "D4550F49-7D30-448B-1326-CF67EDD8192B",
+           "name": "BI Tableau",
+           "description": ""
+        },
+        {
+           "id": "C9F602F7-35E5-81DD-6890-DE7F4B2F4F40",
+           "name": "DWH (Microsoft) MS SQL",
+           "description": ""
+        },
+        {
+           "id": "7323D42E-82E9-2151-247F-D349101126B6",
+           "name": "DWH 2 (Microsoft) PostgreSQL",
+           "description": ""
+        },
+        {
+           "id": "A61B71ED-378B-2DE6-A522-581752BE3308",
+           "name": "Сайт (samolet.ru)",
+           "description": ""
+        },
+        {
+           "id": "CE81C9C3-6DB5-6F92-2415-554803258B79",
+           "name": "Сбербанк",
+           "description": ""
+        },
+        {
+           "id": "A3A8810E-A56E-5BFF-2965-4EF9615448BE",
+           "name": "ESB",
+           "description": ""
+        },
+        {
+           "id": "4A63959F-507E-7567-42E0-5CF752310C6C",
+           "name": "Active Directory",
+           "description": ""
+        },
+        {
+           "id": "CF8D5FC1-4EF0-5253-1B37-2D2DB5646638",
+           "name": "vmeste.ru",
+           "description": ""
+        },
+        {
+           "id": "77254170-6F74-45CF-3B9F-974BEE3C8E54",
+           "name": "ESTAFF",
+           "description": ""
+        },
+        {
+           "id": "00F47481-9B02-9D9C-819A-ADC2EC3873AD",
+           "name": "Devino",
+           "description": ""
+        },
+        {
+           "id": "706A563D-06F1-A718-4C35-66604F509806",
+           "name": "Chat to Desk (WhatsApp, Telegram)",
+           "description": ""
+        },
+        {
+           "id": "CDEF7E22-0847-4DA4-5F85-B8485B3685BE",
+           "name": "Инфометрика (сервис опросов)",
+           "description": ""
+        },
+        {
+           "id": "537438D3-059E-3F80-5E14-6EC2EE9C946C",
+           "name": "Call Touch - Call traking systems",
+           "description": ""
+        },
+        {
+           "id": "6350DA64-8B55-37E1-54B8-27D540739880",
+           "name": "Smart Deal - площадка электронной регистрации",
+           "description": ""
+        },
+        {
+           "id": "94AFF3D3-55E5-A0D5-1587-E57B39B12229",
+           "name": "Самолет Агент - ЛК Агента",
+           "description": ""
+        },
+        {
+           "id": "539148FE-820D-3647-9250-3E6CF09A1D1A",
+           "name": "Самолет Аукцион - продажа коммерческой недвижимости",
+           "description": ""
+        },
+        {
+           "id": "09496C0C-75C9-3411-89C7-C8CF29DD9553",
+           "name": "Базис - сервис распознавания документов",
+           "description": ""
+        },
+        {
+           "id": "B31C1587-79BD-A41E-6095-7816D5BC3621",
+           "name": "ИСУ - интеллектуальная система управления (Сбер)",
+           "description": ""
+        },
+        {
+           "id": "A0965566-5069-1148-52D7-E478F372208D",
+           "name": "Речевая аналитика (ЦРТ) - качество работы менеджера телефонных продаж",
+           "description": ""
+        },
+        {
+           "id": "AB102B12-A009-53CB-2CD6-5E85CAF882C2",
+           "name": "АТС - AVAYA",
+           "description": ""
+        },
+        {
+           "id": "97344778-281D-80FD-9009-E9517F750186",
+           "name": "Amazon Cloud",
+           "description": ""
+        },
+        {
+           "id": "09C13D6E-7137-9CC7-2FDE-899C622A31CC",
+           "name": "УПСК - универсальная платежная система корпорации",
+           "description": ""
+        },
+        {
+           "id": "0B1C11B5-3A7A-5F03-5D59-A5EAC4E74E82",
+           "name": "Data Studio",
+           "description": ""
+        },
+        {
+           "id": "E9225C24-07B3-3E2D-1084-2F91FB0849AA",
+           "name": "BIG Query (google cloud)",
+           "description": ""
+        },
+        {
+           "id": "B4AD6644-93D0-86EC-7747-12117D02A489",
+           "name": "Sendsay",
+           "description": ""
+        },
+        {
+           "id": "68076D24-A411-30CC-4BB3-93E5F6EF22E8",
+           "name": "СМС Центр",
+           "description": ""
+        },
+        {
+           "id": "A1B9932C-02ED-792A-1B3B-17DE268A3E0A",
+           "name": "1С:Бухгалтерия СПБ Ренновация",
+           "description": ""
+        },
+        {
+           "id": "698FCA3D-3288-8A14-52A7-FDB8552F7443",
+           "name": "Квадо",
+           "description": ""
+        },
+        {
+           "id": "727CF600-824E-7F86-00EE-E0B5E32859A0",
+           "name": "OnCloud (9.1) - Ренновация",
+           "description": ""
+        },
+        {
+           "id": "422F5A07-937C-34CD-729D-FF354066A71C",
+           "name": "Shared Disk - Ренновация",
+           "description": ""
+        },
+        {
+           "id": "EA59D166-5392-03FD-5555-A24E5ACE8343",
+           "name": "Сайт (spbren.ru)",
+           "description": ""
+        },
+        {
+           "id": "D2156058-59B2-5650-4C01-5D5A1EF290A5",
+           "name": "Active Directory - Ренновация",
+           "description": ""
+        },
+        {
+           "id": "BCA2AD34-6D76-9F44-346C-B83CC36C6577",
+           "name": "CISCO Call Manager (CCM)",
+           "description": ""
+        },
+        {
+           "id": "F639AB23-2AB0-3EAF-08E5-ED650890322A",
+           "name": "CISCO Jabber - внутренний мессенджер и софтфон",
+           "description": ""
+        },
+        {
+           "id": "1D4C7FE6-659E-1EF9-77F0-09953CCD546B",
+           "name": "Технокад - площадка электронной регистрации",
+           "description": ""
+        },
+        {
+           "id": "7433C209-6299-8756-734A-28F38EDE512C",
+           "name": "Контур.ОФД",
+           "description": ""
+        },
+        {
+           "id": "1E6B5839-A5A1-61AD-6936-E7F23E9A9484",
+           "name": "ЛК Билайн - рассылка СМС",
+           "description": ""
+        },
+        {
+           "id": "BD20C890-32B2-31FA-764D-B924BF0F4222",
+           "name": "1С:Казна (версия БИТ Финанс Самолета 2017 года)",
+           "description": ""
+        },
+        {
+           "id": "A0BDFDD4-25F2-9A2A-583C-01B5033A68EC",
+           "name": "1С:УПН (управление продажами недвижимости)",
+           "description": ""
+        },
+        {
+           "id": "B6146F48-0DE9-09C3-9786-ECBE94E15951",
+           "name": "1С:Отдел гарантийных обязательств",
+           "description": ""
+        },
+        {
+           "id": "B3EC4DA4-61CC-4528-2D68-AD5F3E3548FA",
+           "name": "Портал - ERP система (архив)",
+           "description": ""
+        },
+        {
+           "id": "B63DABE2-9EB5-01F9-8FD5-90C63F273B6D",
+           "name": "Service Desk (собственный)",
+           "description": ""
+        },
+        {
+           "id": "6400F59D-9ED1-267C-8CF5-1E071B9B51D0",
+           "name": "ДДУ - передача договоров в отдел регистрации",
+           "description": ""
+        },
+        {
+           "id": "A2543F07-4B39-6F39-7C13-ABE6FD398FB6",
+           "name": "1С:Невский Гараж (Бухгалтерская программа)",
+           "description": ""
+        },
+        {
+           "id": "341B0BC1-6779-5426-5B7F-273D8E06A315",
+           "name": "Гранд Смета",
+           "description": ""
+        },
+        {
+           "id": "312ABC26-79A7-26CA-5E07-2F1F4B3E220B",
+           "name": "Интеграция с сервисом Такси",
+           "description": ""
+        },
+        {
+           "id": "CFC71F53-A0B8-90C6-4333-25C9F8EE16D0",
+           "name": "Ипотечный брокер",
+           "description": ""
+        },
+        {
+           "id": "C7581662-03CA-112B-7CE5-40DF40C598E8",
+           "name": "Система записи разговором Аудиобейдж",
+           "description": ""
+        },
+        {
+           "id": "572169DF-1C5C-A211-6F84-8875461C0F15",
+           "name": "Вместе.ру + Моб. прил. мастера",
+           "description": ""
+        },
+        {
+           "id": "8C30E8FC-374F-5FFC-08D8-E434C3389336",
+           "name": "Microsoft Excel",
+           "description": ""
+        },
+        {
+           "id": "14F302C5-813F-52FF-9A2A-9028802E8FE1",
+           "name": "Умный дом Ujin",
+           "description": ""
+        },
+        {
+           "id": "A3752998-64F1-4B00-372F-69BEE02D1E32",
+           "name": "ГИС ЖКХ",
+           "description": ""
+        },
+        {
+           "id": "3284C856-6A12-54C6-5307-627ACC980EBA",
+           "name": "Мобильное приложение инвестора",
+           "description": ""
+        },
+        {
+           "id": "0035AC8F-01DF-9092-1652-20E886565535",
+           "name": "Autodesk Autocad",
+           "description": ""
+        },
+        {
+           "id": "3E11A206-96B7-7D7B-85BB-821BB0740AF2",
+           "name": "Adobe Photoshop",
+           "description": ""
+        },
+        {
+           "id": "E4D57471-3F14-4878-4F0E-08373CD71FE1",
+           "name": "Autodesk Naviswork",
+           "description": ""
+        },
+        {
+           "id": "2516FD49-2B79-1DF6-713D-F51F43BB26C4",
+           "name": "Alfabet Fastline",
+           "description": ""
+        },
+        {
+           "id": "9F104154-695E-06B7-2538-D46DC282A116",
+           "name": "Microsoft PowerPoint",
+           "description": ""
+        },
+        {
+           "id": "4F3F1DEB-7496-083F-6DA8-208555B611DA",
+           "name": "Zabbix",
+           "description": ""
+        },
+        {
+           "id": "6B837D7D-305A-8914-1162-9AA4492B5D61",
+           "name": "1С:ITIL",
+           "description": ""
+        },
+        {
+           "id": "6CEA29A5-02DE-215D-6A1C-FE5D81446F53",
+           "name": "S.Partner",
+           "description": ""
+        },
+        {
+           "id": "6126E91A-36FE-11A3-3BAB-1401DD9905A7",
+           "name": "S.Finance",
+           "description": ""
+        },
+        {
+           "id": "95198C7E-6782-3D5E-0015-DB6AC81B0026",
+           "name": "S.Control",
+           "description": ""
+        },
+        {
+           "id": "D0AE1664-7653-449C-13E5-207081A16F5B",
+           "name": "S.Project",
+           "description": ""
+        },
+        {
+           "id": "71671CF8-4BF9-656E-4180-7204A77E0D2F",
+           "name": "S.Constraction",
+           "description": ""
+        },
+        {
+           "id": "365ADB87-7DC4-34AD-5F2D-A353B3069739",
+           "name": "S.Home",
+           "description": ""
+        },
+        {
+           "id": "740776AF-8E47-8E42-4DCA-5B4195E054E5",
+           "name": "S.Center",
+           "description": ""
+        },
+        {
+           "id": "900ECB3C-9D48-A2C9-5DBE-AD1149DE7C51",
+           "name": "AutoCAD Plag-in",
+           "description": ""
+        }
+  ]
+}
