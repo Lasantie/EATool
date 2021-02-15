@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Container, Row} from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 import NavList from '../nav-list'
 import DataTree from "../data-tree/data-tree";
 
@@ -9,7 +9,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export default class App extends Component {
 
     state = {
-        db: 'Applications'
+        db: '',
+        filter: ''
     }
 
     onChangeDataBase = (db) => {
@@ -18,19 +19,25 @@ export default class App extends Component {
         });
     }
 
+    onChangeSearch = (filter) => {
+        this.setState({
+            filter
+        });
+    }
+
     componentDidCatch(error, info) {
         console.log(error, info);
     }
 
     render() {
-        const {db} = this.state;
+        const {db, filter} = this.state;
         return (
             <>
-                <Container className={'justify-content-md-center'}>
-                    <Row>
-                        <NavList onChangeDataBase={this.onChangeDataBase}/>
-                        <DataTree db={db}/>
-                    </Row>
+                <Container className={'justify-content-md-center'} fluid={'md'}>
+
+                        <NavList onChangeDataBase={this.onChangeDataBase} onChangeSearch={this.onChangeSearch}/>
+                        <DataTree db={db} filter={filter}/>
+
                 </Container>
             </>
         )
